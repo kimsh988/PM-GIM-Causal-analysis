@@ -1,6 +1,3 @@
-# PM-GIM-Causal-analysis
-Code for the causal analysis of long-term particulate matter exposure and gastric intestinal metaplasia.
-
 # Long-term Particulate Matter Exposure and Gastric Intestinal Metaplasia
 
 This repository contains the R code used for the analyses in the study examining the causal effect of long-term particulate matter exposure on gastric intestinal metaplasia.
